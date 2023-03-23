@@ -19,9 +19,9 @@ canvas{
 
 }
 h1{
-    margin-right: 40px;
-    font-size: 6.3rem;
+    width: 940px;
+    font-size: 4rem;
     color: aqua;
-    letter-spacing: 40px;
+    letter-spacing: 20px;
     text-align: center;
 }
